@@ -1,75 +1,91 @@
 {
   "Series": [
     {
-      "Title": "Tulsa King",
-      "ImageBack": "https://upload.wikimedia.org/wikipedia/en/1/13/Top_Gun_Maverick_Poster.jpg",
-      "ImageMain": "https://www.cdn.vidce.net/d/ID1SMRgCfYVQbl0KyTvSlg/1673783346/video/Tulsa_King/1x08.mp4",
-      "Description": "cxvvxc",
+      "Title": "Έτερος Εγώ",
+      "ImageBack": "https://i1.prth.gr/images/1168x656/files/2023-01-05/maestro8998988.jpg",
+      "ImageMain": "https://m.media-amazon.com/images/M/MV5BNjNhZmY4MTMtY2Y5OC00M2M2LWE2ODEtMzE2YjZmZDdiOWM1XkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_.jpg",
+      "Description": "O Ορέστης ταξιδεύει σε ένα μικρό νησί στην εποχή της πανδημίας προκειμένου να στήσει, από την αρχή, ένα Φεστιβάλ μουσικής. Αντιμέτωπος με τη μικρή κοινωνία του νησιού και όλες τις παθογένειές της, θα βρεθεί μπλεγμένος σε μία ακραία ερωτική ιστορία που θα αποτελέσει κίνητρο για να εκδηλωθούν όλα τα κοινωνικά προβλήματα τα οποία μαστίζουν μια ολόκληρη ομάδα ανθρώπων. Είναι όλοι συνδεδεμένοι μεταξύ τους και μ’ έναν τρόπο συνένοχοι σε αυτό που θα ακολουθήσει.Ο Ορέστης είναι μουσικός και φτάνει στους Παξούς με αφορμή τη διοργάνωση του Φεστιβάλ μουσικής του νησιού. Εκεί θα γνωρίσει όλη τη μικρή κοινωνία. Η συνάντησή του με τη νεαρή Κλέλια θα είναι η αφορμή για να βρεθεί μπλεγμένος σε ακραίες καταστάσεις.",
       "Year": "2022",
-      "Genre": "COMEDY",
-      "Duration": "1h 23m 23s",
+      "Genre": "Έγκλημα, Δράμα, Μυστήριο",
+      "Duration": "~50λ",
       "isUnlocked": true,
       "Seasons": [
         {
           "Title": "Α' Κύκλος",
-          "Image": "https://m.media-amazon.com/images/M/MV5BYmI3N2EzOWQtZjFiMi00MjgwLTgzN2UtZGI0ZGY1ZDQyOTRiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UX67_CR0,0,67,98_AL_.jpg",
+          "Image": "https://www.imdb.com/title/tt16358384/mediaviewer/rm2715158017/?ref_=tt_ov_i",
           "Year": "2022",
           "isUnlocked": true,
           "Episodes": [
             {
-              "Title": "Επεισόδιο 8 (Adobe Walls)",
-              "Image": "https://m.media-amazon.com/images/M/MV5BOTk5M2I3YzYtNWM1ZS00YTgxLWFkOTItZTRhMTlhMzBhMDRhXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "Title": "Επεισόδιο 8",
+              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
               "Video": "https://www.cdn.vidce.net/d/ID1SMRgCfYVQbl0KyTvSlg/1673783346/video/Tulsa_King/1x08.mp4",
               "Description": "",
+              "Date": "",
+              "Duration": "",
               "isUnlocked": true
             },
             {
-              "Title": "Επεισόδιο 1 (Go West, Old Man)",
-              "Image": "https://m.media-amazon.com/images/M/MV5BNjU3M2VkMzEtYjZhMy00ODIzLWEyNDAtNGI4ZTE2YTM5NzRmXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "Title": "Επεισόδιο 7",
+              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
               "Video": "https://www.cdn.vidce.net/d/ID1SMRgCfYVQbl0KyTvSlg/1673783346/video/Tulsa_King/1x07.mp4",
               "Description": "",
+              "Date": "",
+              "Duration": "",
               "isUnlocked": true
             },
             {
-              "Title": "Επεισόδιο 1 (Go West, Old Man)",
-              "Image": "https://m.media-amazon.com/images/M/MV5BZGE1YjQzYjYtYWFiNy00M2QxLTljMzEtYmUzZWZkZTkyMWQ2XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "Title": "Επεισόδιο 6",
+              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
               "Video": "https://www.cdn.vidce.net/d/ID1SMRgCfYVQbl0KyTvSlg/1673783346/video/Tulsa_King/1x06.mp4",
               "Description": "",
+              "Date": "",
+              "Duration": "",
               "isUnlocked": true
             },
             {
-              "Title": "Επεισόδιο 1 (Go West, Old Man)",
-              "Image": "https://m.media-amazon.com/images/M/MV5BMGQ1OGZiNGUtMDlmOC00MGZiLTg4YjEtMGUyOGM0ZWRlZTRiXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "Title": "Επεισόδιο 5",
+              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
               "Video": "https://www.cdn.vidce.net/d/ID1SMRgCfYVQbl0KyTvSlg/1673783346/video/Tulsa_King/1x05.mp4",
               "Description": "",
+              "Date": "",
+              "Duration": "",
               "isUnlocked": true
             },
             {
-              "Title": "Επεισόδιο 1 (Go West, Old Man)",
-              "Image": "https://m.media-amazon.com/images/M/MV5BNmQ2ZWM1OGYtN2VhNC00NTUyLTgxY2UtNjliYjEzYmJhMDM2XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "Title": "Επεισόδιο 4",
+              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
               "Video": "https://www.cdn.vidce.net/d/ID1SMRgCfYVQbl0KyTvSlg/1673783346/video/Tulsa_King/1x04.mp4",
               "Description": "",
+              "Date": "",
+              "Duration": "",
               "isUnlocked": true
             },
             {
-              "Title": "Επεισόδιο 1 (Go West, Old Man)",
-              "Image": "https://m.media-amazon.com/images/M/MV5BZWYxMGFmY2MtZjdkYi00ZjQzLTllZmUtMDM5YWM1NmM3OGU4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "Title": "Επεισόδιο 3",
+              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
               "Video": "https://www.cdn.vidce.net/d/ID1SMRgCfYVQbl0KyTvSlg/1673783346/video/Tulsa_King/1x03.mp4",
               "Description": "",
+              "Date": "",
+              "Duration": "",
               "isUnlocked": true
             },
             {
-              "Title": "Επεισόδιο 1 (Go West, Old Man)",
-              "Image": "https://m.media-amazon.com/images/M/MV5BYTAwOGUwZWYtMjU1MC00MTU0LTgwNTMtOTc3MWI1ZTU1MGM4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "Title": "Επεισόδιο 2",
+              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
               "Video": "https://www.cdn.vidce.net/d/ID1SMRgCfYVQbl0KyTvSlg/1673783346/video/Tulsa_King/1x02.mp4",
               "Description": "",
+              "Date": "",
+              "Duration": "",
               "isUnlocked": true
             },
             {
-              "Title": "Επεισόδιο 1 (Go West, Old Man)",
-              "Image": "https://m.media-amazon.com/images/M/MV5BY2VmMzgzYzctZDkzMy00YjgxLWI0MjItOGRjNTdmYTYwZWQxXkEyXkFqcGdeQXVyMTM0NTczMzE3._V1_UY126_CR7,0,224,126_AL_.jpg",
+              "Title": "Επεισόδιο 1",
+              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
               "Video": "https://www.cdn.vidce.net/d/ID1SMRgCfYVQbl0KyTvSlg/1673783346/video/Tulsa_King/1x01.mp4",
               "Description": "",
+              "Date": "",
+              "Duration": "",
               "isUnlocked": true
             }
           ]
