@@ -1,88 +1,25 @@
 {
   "Series": [
     {
-      "Title": "Έτερος Εγώ",
-      "ImageBack": "https://i1.prth.gr/images/1168x656/files/2023-01-05/maestro8998988.jpg",
-      "ImageMain": "https://m.media-amazon.com/images/M/MV5BNjNhZmY4MTMtY2Y5OC00M2M2LWE2ODEtMzE2YjZmZDdiOWM1XkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_.jpg",
-      "Description": "O Ορέστης ταξιδεύει σε ένα μικρό νησί στην εποχή της πανδημίας προκειμένου να στήσει, από την αρχή, ένα Φεστιβάλ μουσικής. Αντιμέτωπος με τη μικρή κοινωνία του νησιού και όλες τις παθογένειές της, θα βρεθεί μπλεγμένος σε μία ακραία ερωτική ιστορία που θα αποτελέσει κίνητρο για να εκδηλωθούν όλα τα κοινωνικά προβλήματα τα οποία μαστίζουν μια ολόκληρη ομάδα ανθρώπων. Είναι όλοι συνδεδεμένοι μεταξύ τους και μ’ έναν τρόπο συνένοχοι σε αυτό που θα ακολουθήσει.Ο Ορέστης είναι μουσικός και φτάνει στους Παξούς με αφορμή τη διοργάνωση του Φεστιβάλ μουσικής του νησιού. Εκεί θα γνωρίσει όλη τη μικρή κοινωνία. Η συνάντησή του με τη νεαρή Κλέλια θα είναι η αφορμή για να βρεθεί μπλεγμένος σε ακραίες καταστάσεις.",
+      "Title": "Tulsa King",
+      "ImageBack": "https://wwwimage-us.pplusstatic.com/thumbnails/photos/w1920-q80/marquee/1053880/tulsa_sp_hero_landscape_0.jpg",
+      "ImageMain": "https://image.tmdb.org/t/p/w185/fwTv3RPRAIy0maOMns5eYRRwnDk.jpg",
+      "Description": "Η ιστορία ακολουθεί τον μαφιόζο Dwight “Ο Στρατηγός” Manfredi, ο οποίος έχει μόλις αποφυλακιστεί, ύστερα από μια κάθειρξη 25 χρόνων. Σχεδόν άμεσα, το αφεντικό του τον στέλνει στη Tulsa της Oklahoma, εκεί όπου θα πρέπει να φτιάξει μια νέα συμμορία με σκοπό τη δημιουργία μιας νέας εγκληματικής αυτοκρατορίας. Αν και ο έμπειρος Manfredi γνωρίζει πως η μαφιόζικη οικογένεια του δε σκέφτεται μόνο το δικό του καλό, σιγά αλλά σταθερά φτιάχνει μια νέα συμμορία που αποτελείται από αταίριαστους χαρακτήρες, που θα τον βοηθήσουν να εκπληρώσει την επιθυμία του αφεντικού του, σε ένα μέρος που για τον ίδιο μοιάζει σαν έναν διαφορετικό πλανήτη.",
       "Year": "2022",
       "Genre": "Έγκλημα, Δράμα, Μυστήριο",
-      "Duration": "~50λ",
+      "Duration": "~45λ",
       "isUnlocked": true,
       "Seasons": [
         {
           "Title": "Α' Κύκλος",
-          "Image": "https://www.imdb.com/title/tt16358384/mediaviewer/rm2715158017/?ref_=tt_ov_i",
+          "Image": "https://wwwimage-us.pplusstatic.com/thumbnails/photos/w1920-q80/marquee/1053880/tulsa_sp_hero_landscape_0.jpg",
           "Year": "2022",
           "isUnlocked": true,
           "Episodes": [
             {
-              "Title": "Επεισόδιο 8",
-              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
-              "Video": "https://www.cdn.vidce.net/d/ID1SMRgCfYVQbl0KyTvSlg/1673783346/video/Tulsa_King/1x08.mp4",
-              "Description": "",
-              "Date": "",
-              "Duration": "",
-              "isUnlocked": true
-            },
-            {
-              "Title": "Επεισόδιο 7",
-              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
-              "Video": "https://www.cdn.vidce.net/d/ID1SMRgCfYVQbl0KyTvSlg/1673783346/video/Tulsa_King/1x07.mp4",
-              "Description": "",
-              "Date": "",
-              "Duration": "",
-              "isUnlocked": true
-            },
-            {
-              "Title": "Επεισόδιο 6",
-              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
-              "Video": "https://www.cdn.vidce.net/d/ID1SMRgCfYVQbl0KyTvSlg/1673783346/video/Tulsa_King/1x06.mp4",
-              "Description": "",
-              "Date": "",
-              "Duration": "",
-              "isUnlocked": true
-            },
-            {
-              "Title": "Επεισόδιο 5",
-              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
-              "Video": "https://www.cdn.vidce.net/d/ID1SMRgCfYVQbl0KyTvSlg/1673783346/video/Tulsa_King/1x05.mp4",
-              "Description": "",
-              "Date": "",
-              "Duration": "",
-              "isUnlocked": true
-            },
-            {
-              "Title": "Επεισόδιο 4",
-              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
-              "Video": "https://www.cdn.vidce.net/d/ID1SMRgCfYVQbl0KyTvSlg/1673783346/video/Tulsa_King/1x04.mp4",
-              "Description": "",
-              "Date": "",
-              "Duration": "",
-              "isUnlocked": true
-            },
-            {
-              "Title": "Επεισόδιο 3",
-              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
-              "Video": "https://www.cdn.vidce.net/d/ID1SMRgCfYVQbl0KyTvSlg/1673783346/video/Tulsa_King/1x03.mp4",
-              "Description": "",
-              "Date": "",
-              "Duration": "",
-              "isUnlocked": true
-            },
-            {
-              "Title": "Επεισόδιο 2",
-              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
-              "Video": "https://www.cdn.vidce.net/d/ID1SMRgCfYVQbl0KyTvSlg/1673783346/video/Tulsa_King/1x02.mp4",
-              "Description": "",
-              "Date": "",
-              "Duration": "",
-              "isUnlocked": true
-            },
-            {
-              "Title": "Επεισόδιο 1",
-              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
-              "Video": "https://s4.capoplay.com:999/hls/sscs1.m3u8?md5=sxUnMg7PpguoG-xYdoM_kw&expires=1673206755",
+              "Title": "Επεισόδιο 9",
+              "Image": "https://theenvoyweb.com/wp-content/uploads/2023/01/Tulsa-King-season-1-episode-9-696x392.jpg",
+              "Video": "https://wanda.vtube.to/hls/,x5s464f5nfyki6cgamf4t6fqmjsudkrisk6qgn2crfzgvpvvnhfvlt5isbaa,.urlset/master.m3u8",
               "Description": "",
               "Date": "",
               "Duration": "",
