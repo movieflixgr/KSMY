@@ -1,9 +1,9 @@
 {
   "Series": [
     {
-      "Title": "Tulsa King",
-      "ImageBack": "https://wwwimage-us.pplusstatic.com/thumbnails/photos/w1920-q80/marquee/1053880/tulsa_sp_hero_landscape_0.jpg",
-      "ImageMain": "https://image.tmdb.org/t/p/w185/fwTv3RPRAIy0maOMns5eYRRwnDk.jpg",
+      "Title": "Squid Game: Το Παιχνίδι του Καλαμαριού",
+      "ImageBack": "https://www.in.gr/wp-content/uploads/2022/06/s1-1.jpg",
+      "ImageMain": "https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",
       "Description": "Η ιστορία ακολουθεί τον μαφιόζο Dwight “Ο Στρατηγός” Manfredi, ο οποίος έχει μόλις αποφυλακιστεί, ύστερα από μια κάθειρξη 25 χρόνων. Σχεδόν άμεσα, το αφεντικό του τον στέλνει στη Tulsa της Oklahoma, εκεί όπου θα πρέπει να φτιάξει μια νέα συμμορία με σκοπό τη δημιουργία μιας νέας εγκληματικής αυτοκρατορίας. Αν και ο έμπειρος Manfredi γνωρίζει πως η μαφιόζικη οικογένεια του δε σκέφτεται μόνο το δικό του καλό, σιγά αλλά σταθερά φτιάχνει μια νέα συμμορία που αποτελείται από αταίριαστους χαρακτήρες, που θα τον βοηθήσουν να εκπληρώσει την επιθυμία του αφεντικού του, σε ένα μέρος που για τον ίδιο μοιάζει σαν έναν διαφορετικό πλανήτη.",
       "Year": "2022",
       "Genre": "Έγκλημα, Δράμα, Μυστήριο",
@@ -11,18 +11,18 @@
       "isUnlocked": true,
       "Seasons": [
         {
-          "Title": "Α' Κύκλος",
-          "Image": "https://wwwimage-us.pplusstatic.com/thumbnails/photos/w1920-q80/marquee/1053880/tulsa_sp_hero_landscape_0.jpg",
+          "Title": "Σεζόν 1",
+          "Image": "https://www.in.gr/wp-content/uploads/2022/06/s1-1.jpg",
           "Year": "2022",
           "isUnlocked": true,
           "Episodes": [
             {
-              "Title": "Επεισόδιο 9",
-              "Image": "https://theenvoyweb.com/wp-content/uploads/2023/01/Tulsa-King-season-1-episode-9-696x392.jpg",
-              "Video": "https://wanda.vtube.to/hls/,x5s464f5nfyki6cgamf4t6fqmjsudkrisk6qgn2crfzgvpvvnhfvlt5isbaa,.urlset/master.m3u8",
-              "Description": "",
+              "Title": "1.Κόκκινο φως, πράσινο φως",
+              "Image": "https://occ-0-3481-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcgVURx2aVqBO-ahF6pNsqh6XLdN2zWXsjt7bPe0ndT4lLfoTynn8eOSHT4o5ERPRNaTuI9sEhEmjlkmS_enUWuYT54etS_Z2c9axK2q_rwm5ubHY9x5TwTG.jpg?r=e86",
+              "Video": "https://www.mediafire.com/file/mtgl1yrlpwtc0ru/squidgames01ep01greeksubs/file",
+              "Description": "Για να βγάλει εύκολα χρήματα, ο απένταρος και απεγνωσμένος Γκι-χουν συμμετέχει σε ένα μυστήριο παιχνίδι. Στην αρχή του πρώτου γύρου, κάτι αναπάντεχα τρομακτικό συμβαίνει.",
               "Date": "",
-              "Duration": "",
+              "Duration": "61λ.",
               "isUnlocked": true
             }
           ]
