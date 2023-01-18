@@ -1,6 +1,35 @@
 {
   "Series": [
     {
+      "Title": "The Last Of Us",
+      "ImageBack": "https://media-flix-gr.s3.amazonaws.com/cache/36/7c/367cc6fd5206d5c57187002650ca8cac.jpg",
+      "ImageMain": "https://media-flix-gr.s3.amazonaws.com/assets/images/2022/12/06/the-last-of-us-poster-hbo.jpg",
+      "Description": "Σε μια μεταποκαλυπτική Αμερική, όπου ένας θανατηφόρος ιός έχει μετατρέψει το μεγαλύτερο μέρος του πληθυσμού σε ένα είδος ζόμπι, τους Clickers, ο Τζόελ που επέζησε από το ξέσπασμα του ιού αναλαμβάνει να μεταφέρει την Ελι, μια 14χρονη κοπέλα, η οποία αποτελεί και το κλειδί θεραπείας από τον ιό, έξω από μια ζώνη καραντίνας, στους Fireflies",
+      "Year": "2023",
+      "Genre": "Περιπέτεια, Δράμα",
+      "Duration": "~45λ",
+      "isUnlocked": true,
+      "Seasons": [
+        {
+          "Title": "Σεζόν 1",
+          "Image": "https://www.imdb.com/title/tt11957006/mediaviewer/rm3305257985/?ref_=tt_ov_i",
+          "Year": "2023",
+          "isUnlocked": true,
+          "Episodes": [
+            {
+              "Title": "1ο Επεισόδιο",
+              "Image": "https://media-flix-gr.s3.amazonaws.com/assets/images/2023/01/17/hero-image_1.jpg",
+              "Video": "https://www.mediafire.com/file/evyyljsln735uaf/01.mp4/file",
+              "Description": "",
+              "Date": "",
+              "Duration": "1ώρ. 21λ.",
+              "isUnlocked": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "Title": "Squid Game: Το Παιχνίδι του Καλαμαριού",
       "ImageBack": "https://www.in.gr/wp-content/uploads/2022/06/s1-1.jpg",
       "ImageMain": "https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",
