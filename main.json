@@ -30,6 +30,98 @@
       ]
     },
     {
+      "Title": "Wednesday",
+      "ImageBack": "https://ntvb.tmsimg.com/assets/p23063500_b_h8_ad.jpg?w=1280&h=720",
+      "ImageMain": "https://upload.wikimedia.org/wikipedia/en/6/66/Wednesday_Netflix_series_poster.png",
+      "Description": "Έξυπνη, σαρκαστική και λίγο νεκρή μέσα της, η Γουένσντεϊ Άνταμς ερευνά μια σειρά φόνων, ενώ κάνει νέους φίλους —και εχθρούς— στην Ακαδημία Νέβερμορ.",
+      "Year": "2022",
+      "Genre": "Κωμωδία Τρόμου",
+      "Duration": "~45λ",
+      "isUnlocked": true,
+      "Seasons": [
+        {
+          "Title": "1 σεζόν",
+          "Image": "https://assets.teenvogue.com/photos/637dfcb2be87a15c98ee8d71/master/pass/WEDNESDAY_103_Unit_01357R%20(1).jpg",
+          "Year": "2022",
+          "isUnlocked": true,
+          "Episodes": [
+            {
+              "Title": "8. Το πουλί της ατυχίας",
+              "Image": "https://occ-0-3481-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcgVURx2aVqBO-ahF6pNsqh6XLdN2zWXsjt7bPe0ndT4lLfoTynn8eOSHT4o5ERPRNaTuI9sEhEmjlkmS_enUWuYT54etS_Z2c9axK2q_rwm5ubHY9x5TwTG.jpg?r=e86",
+              "Video": "https://www.mediafire.com/file/hz707ivnx9ahm62/08.mp4/file",
+              "Description": "Η Γουένσντεϊ έχει πρόβλημα με τη διευθύντρια Γουίμς, αλλά τα προβλήματά της μόλις αρχίζουν. Για να πολεμήσει ένα αρχαίο κακό, θα χρειαστεί τη βοήθεια όλων των φίλων της.",
+              "Date": "",
+              "Duration": "52λ.",
+              "isUnlocked": true
+            },
+            {
+              "Title": "7. Εάν δεν ατύχησες έως τώρα",
+              "Image": "https://occ-0-3481-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcgVURx2aVqBO-ahF6pNsqh6XLdN2zWXsjt7bPe0ndT4lLfoTynn8eOSHT4o5ERPRNaTuI9sEhEmjlkmS_enUWuYT54etS_Z2c9axK2q_rwm5ubHY9x5TwTG.jpg?r=e86",
+              "Video": "https://www.mediafire.com/file/8gyjir0wheoyqsf/07.mp4/file",
+              "Description": "Ο τρελός θείος Φέστερ εμφανίζεται και μοιράζεται τη θεωρία του για το τέρας. Η Γουένσντεϊ δέχεται απρόθυμα να βγει ραντεβού με τον Τάιλερ στην Κρύπτη του Κράκστοουν.",
+              "Date": "",
+              "Duration": "47λ.",
+              "isUnlocked": true
+            },
+            {
+              "Title": "6. Δούναι και ατυχείν",
+              "Image": "https://occ-0-3481-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcgVURx2aVqBO-ahF6pNsqh6XLdN2zWXsjt7bPe0ndT4lLfoTynn8eOSHT4o5ERPRNaTuI9sEhEmjlkmS_enUWuYT54etS_Z2c9axK2q_rwm5ubHY9x5TwTG.jpg?r=e86",
+              "Video": "https://www.mediafire.com/file/2cxa3jpthosg9yr/06.mp4/file",
+              "Description": "Οι φίλοι της Γουένσντεϊ κάνουν ένα πάρτι-έκπληξη για τα γενέθλιά της. Είχαν καλές προθέσεις... αλλά θα προτιμούσε να περάσει τη θλιβερή μέρα εξιχνιάζοντας τους φόνους.",
+              "Date": "",
+              "Duration": "50λ.",
+              "isUnlocked": true
+            },
+            {
+              "Title": "5. Ατυχείς συνέπειες",
+              "Image": "https://occ-0-3481-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcgVURx2aVqBO-ahF6pNsqh6XLdN2zWXsjt7bPe0ndT4lLfoTynn8eOSHT4o5ERPRNaTuI9sEhEmjlkmS_enUWuYT54etS_Z2c9axK2q_rwm5ubHY9x5TwTG.jpg?r=e86",
+              "Video": "https://www.mediafire.com/file/380jmx7dyn43eis/05.mp4/file",
+              "Description": "Το Σαββατοκύριακο των Γονέων, η Γουένσντεϊ ερευνά το οικογενειακό παρελθόν και άθελά της προκαλεί τη σύλληψη του μπαμπά της. Η Ίνιντ πιέζεται να γίνει λυκάνθρωπος.",
+              "Date": "",
+              "Duration": "52λ.",
+              "isUnlocked": true
+            },
+            {
+              "Title": "4. Ατυχής νύχτα",
+              "Image": "https://occ-0-3481-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcgVURx2aVqBO-ahF6pNsqh6XLdN2zWXsjt7bPe0ndT4lLfoTynn8eOSHT4o5ERPRNaTuI9sEhEmjlkmS_enUWuYT54etS_Z2c9axK2q_rwm5ubHY9x5TwTG.jpg?r=e86",
+              "Video": "https://www.mediafire.com/file/ssvusygbj7co18d/04.mp4/file",
+              "Description": "Η Γουένσντεϊ λέει στον Ζέιβιερ να πάνε στον χορό του Κορακιού κι ο Τάιλερ ζηλεύει — αλλά το Πράγμα έχει έναν κρυφό άσο στο μανίκι του. Ο Γιουτζίν παρακολουθεί τη σπηλιά.",
+              "Date": "",
+              "Duration": "50λ.",
+              "isUnlocked": true
+            },
+            {
+              "Title": "3. Φίλος ή ατυχία",
+              "Image": "https://occ-0-3481-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcgVURx2aVqBO-ahF6pNsqh6XLdN2zWXsjt7bPe0ndT4lLfoTynn8eOSHT4o5ERPRNaTuI9sEhEmjlkmS_enUWuYT54etS_Z2c9axK2q_rwm5ubHY9x5TwTG.jpg?r=e86",
+              "Video": "https://www.mediafire.com/file/8vlv0j3sr3xibxz/03.mp4/file",
+              "Description": "Η Γουένσντεϊ ανακαλύπτει μια μυστική κοινότητα. Τη Μέρα Προσέγγισης, οι απόκληροι της Νέβερμορ συνυπάρχουν με τους συνηθισμένους του Τζέρικο στον Κόσμο των Προσκυνητών.",
+              "Date": "",
+              "Duration": "48λ.",
+              "isUnlocked": true
+            },
+            {
+              "Title": "2. Η ατυχία είναι ο πιο μοναχικός αριθμός",
+              "Image": "https://occ-0-3481-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcgVURx2aVqBO-ahF6pNsqh6XLdN2zWXsjt7bPe0ndT4lLfoTynn8eOSHT4o5ERPRNaTuI9sEhEmjlkmS_enUWuYT54etS_Z2c9axK2q_rwm5ubHY9x5TwTG.jpg?r=e86",
+              "Video": "https://www.mediafire.com/file/uvu2eh0gqjljds4/02.mp4/file",
+              "Description": "Ο σερίφης μιλάει με τη Γουένσντεϊ για τα παράξενα γεγονότα της νύχτας. Αργότερα, η Γουένσντεϊ αντιμετωπίζει μια μοχθηρή αντίπαλο στον αγώνα για το Κύπελλο Πόε.",
+              "Date": "",
+              "Duration": "49λ.",
+              "isUnlocked": true
+            },
+            {
+              "Title": "1. Το άτυχο παιδί",
+              "Image": "https://occ-0-3481-2773.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcgVURx2aVqBO-ahF6pNsqh6XLdN2zWXsjt7bPe0ndT4lLfoTynn8eOSHT4o5ERPRNaTuI9sEhEmjlkmS_enUWuYT54etS_Z2c9axK2q_rwm5ubHY9x5TwTG.jpg?r=e86",
+              "Video": "https://www.mediafire.com/file/5rwgi2a2k4mzheq/01.mp4/file",
+              "Description": "Όταν μια διαβολική φάρσα οδηγεί στην αποβολή της Γουένσντεϊ από το σχολείο, οι γονείς της τη βάζουν στην Ακαδημία Νέβερμορ, το οικοτροφείο όπου ερωτεύτηκαν.",
+              "Date": "",
+              "Duration": "59λ.",
+              "isUnlocked": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "Title": "Squid Game: Το Παιχνίδι του Καλαμαριού",
       "ImageBack": "https://www.in.gr/wp-content/uploads/2022/06/s1-1.jpg",
       "ImageMain": "https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",
