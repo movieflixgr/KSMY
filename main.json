@@ -27,7 +27,7 @@
 "Start" : 23,
 "End": 0, 
 "StartString" : "window.location.href = '", 
-"EndString" : ""; ", 
+"EndString" : "/";", 
 "Type" : "med" 
             }
           ]
