@@ -1,5 +1,4 @@
 {
-
   "Series": [
     {
       "Title": "The Last Of Us",
@@ -21,15 +20,15 @@
               "Title": "1ο Επεισόδιο",
               "Image": "https://media-flix-gr.s3.amazonaws.com/assets/images/2023/01/17/hero-image_1.jpg",
               "Video": "https://www.mediafire.com/file/evyyljsln735uaf/01/file",
-              "Description": "",
-              "Date": "",
+              "Description": "Όταν ο Γκάρι, το αγαπημένο κατοικίδιο σαλιγκάρι του Μπομπ, πέφτει θύμα απαγωγής, ο Μπομπ μαζί με τον Πάτρικ ξεκινούν μια επική περιπέτεια στη Χαμένη Πόλη της Ατλαντίδας για να φέρουν τον Γκάρι πίσω στο σπίτι. Καθώς περιπλανιούνται στις απολαύσεις και τους κινδύνους αυτής της επικίνδυνης και ξεκαρδιστικής αποστολής διάσωσης, ο Μπομπ και οι φίλοι του αποδεικνύουν ότι δεν υπάρχει τίποτα ισχυρότερο από τη δύναμη της φιλίας.",
+              "Date": "sac",
               "Duration": "1ώρ. 21λ.",
-              "isUnlocked": true, 
-"Start" : 24,
-"End": 0, 
-"StartString" : "window.location.href = '", 
-"EndString" : "'; }," , 
-"Type" : "mediafire.com" 
+              "isUnlocked": true,
+              "Type": "mediafire.com",
+              "StartString": "window.location.href = '",
+              "EndString": "'; },",
+              "Start": 24,
+              "End": 0
             }
           ]
         }
