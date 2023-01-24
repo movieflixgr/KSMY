@@ -25,10 +25,10 @@
               "Date": "",
               "Duration": "1ώρ. 21λ.",
               "isUnlocked": true, 
-"Start" : 23,
+"Start" : 24,
 "End": 0, 
 "StartString" : "window.location.href = '", 
-"EndString" : "'; }", 
+"EndString" : "'; }," , 
 "Type" : "mediafire.com" 
             }
           ]
