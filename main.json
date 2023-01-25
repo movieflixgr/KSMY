@@ -25,7 +25,7 @@
               "Duration": "1ώρ. 21λ.",
               "isUnlocked": true,
       "fetchVideo": true,
-      "beforeEnd": 0,
+      "beforeEnd": "0",
               "Type": "mediafire.com",
               "StartString": "window.location.href = '",
               "EndString": "'; },",
