@@ -30,7 +30,8 @@
               "StartString": "https://download",
               "EndString": "\"",
               "Start": 0,
-              "End": 0
+              "End": 0,
+              "Fetch": "MediaFire"
             },
             {
               "Title": "1ο Επεισόδιο",
@@ -46,7 +47,8 @@
               "StartString": "https://download",
               "EndString": "\"",
               "Start": 0,
-              "End": 0
+              "End": 0,
+              "Fetch": "MediaFire"
             }
           ]
         }
@@ -82,7 +84,8 @@
               "StartString": "https://download",
               "EndString": "\"",
               "Start": 0,
-              "End": 5
+              "End": 5,
+              "Fetch": "MediaFire"
             },
             {
               "Title": "7. Εάν δεν ατύχησες έως τώρα",
@@ -98,7 +101,8 @@
               "StartString": "https://download",
               "EndString": "\"",
               "Start": 0,
-              "End": 5
+              "End": 5,
+              "Fetch": "MediaFire"
             },
             {
               "Title": "6. Δούναι και ατυχείν",
@@ -114,7 +118,8 @@
               "StartString": "https://download",
               "EndString": "\"",
               "Start": 0,
-              "End": 5
+              "End": 5,
+              "Fetch": "MediaFire"
             },
             {
               "Title": "5. Ατυχείς συνέπειες",
@@ -130,7 +135,8 @@
               "StartString": "https://download",
               "EndString": "\"",
               "Start": 0,
-              "End": 5
+              "End": 5,
+              "Fetch": "MediaFire"
             },
             {
               "Title": "4. Ατυχής νύχτα",
@@ -146,7 +152,8 @@
               "StartString": "https://download",
               "EndString": "\"",
               "Start": 0,
-              "End": 5
+              "End": 5,
+              "Fetch": "MediaFire"
             },
             {
               "Title": "3. Φίλος ή ατυχία",
@@ -162,7 +169,8 @@
               "StartString": "https://download",
               "EndString": "\"",
               "Start": 0,
-              "End": 5
+              "End": 5,
+              "Fetch": "MediaFire"
             },
             {
               "Title": "2. Η ατυχία είναι ο πιο μοναχικός αριθμός",
@@ -178,7 +186,8 @@
               "StartString": "https://download",
               "EndString": "\"",
               "Start": 0,
-              "End": 5
+              "End": 5,
+              "Fetch": "MediaFire"
             },
             {
               "Title": "1. Το άτυχο παιδί",
@@ -194,7 +203,8 @@
               "StartString": "https://download",
               "EndString": "\"",
               "Start": 0,
-              "End": 5
+              "End": 5,
+              "Fetch": "MediaFire"
             }
           ]
         }
@@ -230,7 +240,8 @@
               "StartString": "https://download",
               "EndString": "\"",
               "Start": 0,
-              "End": 5
+              "End": 5,
+              "Fetch": "MediaFire"
             }
           ]
         }
