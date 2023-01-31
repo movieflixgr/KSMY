@@ -17,6 +17,23 @@
           "isUnlocked": true,
           "Episodes": [
             {
+              "Title": "3ο Επεισόδιο",
+              "Image": "https://www.denofgeek.com/wp-content/uploads/2023/01/the-last-of-us-bill-nick-offerman.jpg",
+              "Video": "https://www.mediafire.com/file/u1vnk6dx4ndskmp/03/file",
+              "Description": "",
+              "Date": "27/01/2023",
+              "Duration": "1ώρ 20λ.",
+              "isUnlocked": true,
+              "fetchVideo": true,
+              "beforeEnd": "0",
+              "Type": "media",
+              "StartString": "https://download",
+              "EndString": "\"",
+              "Start": 0,
+              "End": 0,
+              "Fetch": "MediaFire"
+            },
+            {
               "Title": "2ο Επεισόδιο",
               "Image": "https://media.unboxholics.com/media/source/Articles/102103/images/bigImage/The-Last-of-Us.webp",
               "Video": "https://www.mediafire.com/file/c278lb2augl5fpb/2.mp4/file",
