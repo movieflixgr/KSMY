@@ -17,6 +17,23 @@
           "isUnlocked": true,
           "Episodes": [
             {
+              "Title": "4ο Επεισόδιο",
+              "Image": "https://www.denofgeek.com/wp-content/uploads/2023/02/the-last-of-us-episode-4-melanie-lynskey.jpg?resize=768%2C432",
+              "Video": "https://www.mediafire.com/file/kp0mc82ok5c7n79/4/file",
+              "Description": "",
+              "Date": "05/02/2023",
+              "Duration": "45λ.",
+              "isUnlocked": true,
+              "fetchVideo": true,
+              "beforeEnd": "0",
+              "Type": "media",
+              "StartString": "https://download",
+              "EndString": "\"",
+              "Start": 0,
+              "End": 0,
+              "Fetch": "MediaFire"
+            },
+            {
               "Title": "3ο Επεισόδιο",
               "Image": "https://www.denofgeek.com/wp-content/uploads/2023/01/the-last-of-us-bill-nick-offerman.jpg",
               "Video": "https://www.mediafire.com/file/u1vnk6dx4ndskmp/03/file",
@@ -37,7 +54,7 @@
               "Title": "2ο Επεισόδιο",
               "Image": "https://media.unboxholics.com/media/source/Articles/102103/images/bigImage/The-Last-of-Us.webp",
               "Video": "https://www.mediafire.com/file/c278lb2augl5fpb/2.mp4/file",
-              "Description": "",              
+              "Description": "",
               "Date": "22/01/2023",
               "Duration": "53λ.",
               "isUnlocked": true,
