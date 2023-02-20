@@ -17,6 +17,23 @@
           "isUnlocked": true,
           "Episodes": [
             {
+              "Title": "6ο Επεισόδιο",
+              "Image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/02/pedro-pascal-as-joel-in-the-last-of-us-episode-6.jpg",
+              "Video": "https://www.mediafire.com/file/xggi97268eai1am/06.mp4/file",
+              "Description": "",
+              "Date": "19/02/2023",
+              "Duration": "59λ.",
+              "isUnlocked": true,
+              "fetchVideo": true,
+              "beforeEnd": "0",
+              "Type": "media",
+              "StartString": "https://download",
+              "EndString": "\"",
+              "Start": 0,
+              "End": 0,
+              "Fetch": "MediaFire"
+            },
+            {
               "Title": "5ο Επεισόδιο",
               "Image": "https://static01.nyt.com/images/2023/02/10/arts/10lastofus/10lastofus-superJumbo.jpg",
               "Video": "https://www.mediafire.com/file/7gxikwsikg98f1w/5.mp4/file",
