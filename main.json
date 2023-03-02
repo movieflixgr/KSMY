@@ -16,6 +16,23 @@
           "Year": "2023",
           "isUnlocked": true,
           "Episodes": [
+                        {
+              "Title": "7ο Επεισόδιο",
+              "Image": "https://www.indiewire.com/wp-content/uploads/2023/02/The-Last-of-Us-Episode-7-HBO.jpg",
+              "Video": "https://www.mediafire.com/file/rj0vkn11g5w0g2k/7/file",
+              "Description": "",
+              "Date": "28/02/2023",
+              "Duration": "58λ.",
+              "isUnlocked": true,
+              "fetchVideo": true,
+              "beforeEnd": "0",
+              "Type": "media",
+              "StartString": "https://download",
+              "EndString": "\"",
+              "Start": 0,
+              "End": 0,
+              "Fetch": "MediaFire"
+            },
             {
               "Title": "6ο Επεισόδιο",
               "Image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/02/pedro-pascal-as-joel-in-the-last-of-us-episode-6.jpg",
